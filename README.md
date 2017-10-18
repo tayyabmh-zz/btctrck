@@ -1,4 +1,4 @@
-"# btctrck" 
+
 These are the resources you are going to need.
 
 I always do a resources file, that tracks all of my library APIs or like simple algorithms on shit here. Also, remember to create a branch before you start writing code.
